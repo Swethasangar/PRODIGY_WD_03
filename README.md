@@ -1,5 +1,6 @@
 # PRODIGY_WD_03
 Weather App
+
 The Weather App is a simple application that allows users to get real-time weather updates for any location. It fetches weather data from a weather API and displays essential information such as temperature, humidity, wind speed, and a brief weather description. The app is styled using Tailwind CSS for a modern and responsive UI.
 
 Features
